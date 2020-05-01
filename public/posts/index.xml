@@ -1,0 +1,60 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on A place for adventures and experiments</title>
+        <link>/posts/</link>
+        <description>Recent content in Posts on A place for adventures and experiments</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>Reese 2020</copyright>
+        <lastBuildDate>Wed, 01 Apr 2020 22:18:08 -0400</lastBuildDate>
+        <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Sk</title>
+            <link>/posts/sk/</link>
+            <pubDate>Wed, 01 Apr 2020 22:18:08 -0400</pubDate>
+            
+            <guid>/posts/sk/</guid>
+            <description>You never told me goodby. I&#39;m still mad.
+embed miss you all the time oar</description>
+            <content type="html"><![CDATA[<p>You never told me goodby. I'm still mad.</p>
+<p>embed miss you all the time oar</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Cw</title>
+            <link>/posts/cw/</link>
+            <pubDate>Sat, 28 Mar 2020 00:28:34 -0400</pubDate>
+            
+            <guid>/posts/cw/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Covid 19</title>
+            <link>/posts/covid-19/</link>
+            <pubDate>Sat, 21 Mar 2020 20:10:03 -0400</pubDate>
+            
+            <guid>/posts/covid-19/</guid>
+            <description>This site will include article and information about my adventures in armature radio. I have many other hobbies that intersect with radio. We can enjoy them together. Hopefully it will help me remember things also. Some of my QRP FT8 POTA
+This is a time of global pandemic. I don&#39;t watch a lot of news about the virus. Right now I&#39;m watching Mortal Kombat from 1997. I hope the bands get more active, from bored hams stuck at home.</description>
+            <content type="html"><![CDATA[<p>This site will include article and information about my adventures in armature radio. I have many other hobbies that intersect with radio. We can enjoy them together. Hopefully it will help me remember things also. Some of my QRP FT8 POTA</p>
+<p>This is a time of global pandemic. I don't watch a lot of news about the virus. Right now I'm watching Mortal Kombat from 1997. I hope the bands get more active, from bored hams stuck at home. I have made a lot of progress on NOT isolating myself latley. Now with this virus this is mandatory to stop the spread. Radio has been a great hobby for me these past two years. It gets me out of the house and helps me connect with people.   more activite</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>First</title>
+            <link>/posts/first/</link>
+            <pubDate>Sat, 14 Mar 2020 00:52:24 -0400</pubDate>
+            
+            <guid>/posts/first/</guid>
+            <description>Here I will write about my adventures in radio</description>
+            <content type="html"><![CDATA[<p>Here I will write about my adventures in radio</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
