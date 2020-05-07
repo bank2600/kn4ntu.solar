@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reese 2020</copyright>
-    <lastBuildDate>Fri, 01 May 2020 00:27:34 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 23:07:00 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Qrp</title>
+      <link>/posts/qrp/</link>
+      <pubDate>Tue, 05 May 2020 23:07:00 -0400</pubDate>
+      
+      <guid>/posts/qrp/</guid>
+      <description>I get some flack for liking QRP so much. Recently I went to a local park and worked a station from Poland on just six watts. This was my first voice DX QRP contact. The feeling was quite amazing, I&amp;rsquo;ll never forget it. While at the park I had no cell service. I pay about 50 USD a month for cell service. However I took a radio out of a sherpa pack and talked to a man over four thousand miles away for free.</description>
+    </item>
     
     <item>
       <title>Ken_thompson</title>
@@ -20,7 +29,7 @@
       <guid>/posts/ken_thompson/</guid>
       <description>Ken Thompson One of this first Unix cowboys created Go. My old blog was in Python. We will see how this goes&amp;hellip; I recetnly watched this
 
-He did a lot with Bell and the early groundwork for Unix at Berkeley. It&#39;s pretty late so I will write more on this in the morning.</description>
+He did a lot with Bell and the early groundwork for Unix at Berkeley. It&amp;rsquo;s pretty late so I will write more on this in the morning.</description>
     </item>
     
     <item>
@@ -29,7 +38,7 @@ He did a lot with Bell and the early groundwork for Unix at Berkeley. It&#39;s p
       <pubDate>Wed, 01 Apr 2020 22:18:08 -0400</pubDate>
       
       <guid>/posts/sk/</guid>
-      <description>You never told me goodbye. I&#39;m still mad.</description>
+      <description>You never told me goodbye. I&amp;rsquo;m still mad.</description>
     </item>
     
     <item>
@@ -48,7 +57,7 @@ He did a lot with Bell and the early groundwork for Unix at Berkeley. It&#39;s p
       
       <guid>/posts/covid-19/</guid>
       <description>This site will include article and information about my adventures in armature radio. I have many other hobbies that intersect with radio. We can enjoy them together. Hopefully it will help me remember things also. Some of my QRP FT8 POTA
-This is a time of global pandemic. I don&#39;t watch a lot of news about the virus. Right now I&#39;m watching Mortal Kombat from 1997. I hope the bands get more active, from bored hams stuck at home.</description>
+This is a time of global pandemic. I don&amp;rsquo;t watch a lot of news about the virus. Right now I&amp;rsquo;m watching Mortal Kombat from 1997. I hope the bands get more active, from bored hams stuck at home.</description>
     </item>
     
     <item>
