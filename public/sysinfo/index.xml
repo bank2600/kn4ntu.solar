@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sysinfos on A place for adventures and experiments</title>
+    <link>/sysinfo/</link>
+    <description>Recent content in Sysinfos on A place for adventures and experiments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reese KN4NTU 2020</copyright>
+    <lastBuildDate>Thu, 07 May 2020 00:06:03 -0400</lastBuildDate>
+    
+	<atom:link href="/sysinfo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sysinfo</title>
+      <link>/sysinfo/sysinfo/</link>
+      <pubDate>Thu, 07 May 2020 00:06:03 -0400</pubDate>
+      
+      <guid>/sysinfo/sysinfo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,19 +6,72 @@
     <description>Recent content on A place for adventures and experiments</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Reese 2020</copyright>
-    <lastBuildDate>Tue, 05 May 2020 23:07:00 -0400</lastBuildDate>
+    <copyright>Reese KN4NTU 2020</copyright>
+    <lastBuildDate>Fri, 19 Jun 2020 22:05:27 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Qrp</title>
+      <title>Pisoundfix</title>
+      <link>/posts/pisoundfix/</link>
+      <pubDate>Fri, 19 Jun 2020 22:05:27 -0400</pubDate>
+      
+      <guid>/posts/pisoundfix/</guid>
+      <description>To fix stuttering audio on my Raspberry Pi fix.
+I had to edit /etc/pulse/default.pa and change.
+Load-module module-udev-detect into Load-module module-udev-detect tsched=0
+If you made it this far would you buy me a Coffee? https://ko-fi.com/kn4ntu
+BTC: https://www.blockchain.com/btc/address/1MoatvFo2uKJUcf7AmsQX5n8sYyydjrnUR
+73 de KN4NTU </description>
+    </item>
+    
+    <item>
+      <title>UBitx</title>
+      <link>/posts/ubitx/</link>
+      <pubDate>Fri, 19 Jun 2020 12:20:55 -0400</pubDate>
+      
+      <guid>/posts/ubitx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space</title>
+      <link>/posts/space/</link>
+      <pubDate>Sat, 30 May 2020 14:58:27 -0400</pubDate>
+      
+      <guid>/posts/space/</guid>
+      <description>We are about to embark on a new campaignn for space exploration. T- 23 now. Kelly clarkson just sang the national anthem from her home. We are T -4 min now! I&amp;rsquo;m so excited OMG. 10meter and ubitx build.titlec</description>
+    </item>
+    
+    <item>
+      <title>Wxshield</title>
+      <link>/posts/wxshield/</link>
+      <pubDate>Wed, 13 May 2020 00:04:25 -0400</pubDate>
+      
+      <guid>/posts/wxshield/</guid>
+      <description>https://www.robogaia.com/humidity-temperature-shield.html</description>
+    </item>
+    
+    <item>
+      <title>Pota</title>
+      <link>/posts/pota/</link>
+      <pubDate>Tue, 12 May 2020 01:14:18 -0400</pubDate>
+      
+      <guid>/posts/pota/</guid>
+      <description>Recently KE4I and me activated K-3629. We operated from a nice pavilion on a hill.
+`If you made it this far would you buy me a Coffee? https://ko-fi.com/kn4ntu
+BTC: https://www.blockchain.com/btc/address/1MoatvFo2uKJUcf7AmsQX5n8sYyydjrnUR`
+73 de KN4NTU </description>
+    </item>
+    
+    <item>
+      <title>QRP</title>
       <link>/posts/qrp/</link>
       <pubDate>Tue, 05 May 2020 23:07:00 -0400</pubDate>
       
       <guid>/posts/qrp/</guid>
-      <description>I get some flack for liking QRP so much. Recently I went to a local park and worked a station from Poland on just six watts. This was my first voice DX QRP contact. The feeling was quite amazing, I&amp;rsquo;ll never forget it. While at the park I had no cell service. I pay about 50 USD a month for cell service. However I took a radio out of a sherpa pack and talked to a man over four thousand miles away for free.</description>
+      <description>I get some flack for liking QRP Operating the radio at low power from many operators.This post is for you if you choose to keep reading. Recently I went to a local park and worked a station from Poland on just six watts. This was my first voice DX Distance QRP contact! The feeling was quite euphoric, I&amp;rsquo;ll never forget it. While at the park I had no cell service. I pay about 50 USD a month for cell service.</description>
     </item>
     
     <item>

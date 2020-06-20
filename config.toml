@@ -25,7 +25,7 @@ theme = "hello-friend-ng"
 [languages]
   [languages.en]
     title = "A place for adventures and experiments"
-    subtitle = ""
+    subtitle = "If you enjoy my work buy me a coffee please. https://ko-fi.com/kn4ntu"
     keywords = ""
     copyright = "Reese KN4NTU 2020"
     readOtherPosts = "Read other posts"
@@ -43,8 +43,3 @@ theme = "hello-friend-ng"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
-
-
-    identifier = "Sysinfo"
-    name       = "sysinfo"
-    url        = "/sysinfo"
